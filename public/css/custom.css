@@ -1,0 +1,17 @@
+.topbutton{
+	padding-bottom: 10px;
+}
+.custom-img{
+	height: 50px;
+}
+.online_css{
+	padding-right: 5px;
+}
+
+.control-sidebar-dark, .control-sidebar-dark+.control-sidebar-bg {
+	background: lightseagreen;
+}
+
+.control-sidebar-dark .control-sidebar-menu > li > a:hover {
+	background: cadetblue;
+}
