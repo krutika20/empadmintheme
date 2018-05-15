@@ -136,9 +136,9 @@
 
 <script type="text/javascript" src="{{ asset('js/custom.js') }}"></script>
 <script type="text/javascript" src="{{ asset('js/angularcontroller.js') }}"></script>
-<!--<script src="{{ asset('js/echo.js') }}"></script>
+<script src="{{ asset('js/echo.js') }}"></script>
 
 <script src="https://js.pusher.com/4.1/pusher.min.js"></script>
-<script src="{{ asset('js/custom_pusher.js') }}"></script>-->
+<script src="{{ asset('js/custom_pusher.js') }}"></script>
 </body>
 </html>
